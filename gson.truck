@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "truckName": "Renault",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 2,
+    "truckName": "volvo",
+    "driver": {
+      "id": 0
+    },
+    "status": "ROUTE"
+  },
+  {
+    "id": 3,
+    "truckName": "DAF",
+    "driver": {
+      "id": 0
+    },
+    "status": "REPAIR"
+  }
+]   "driver": {
+      "id": "driver-3",
+      "name": "Baiden"
+    },
+    "status": "REPAIR"
+  }
+]
